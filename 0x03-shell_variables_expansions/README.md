@@ -8,3 +8,4 @@
 7. Global variable-> Create a script that creates a new global variable
 8. Every addition to true knowledge is an addition to human power
 9. Divide and rule- > Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
